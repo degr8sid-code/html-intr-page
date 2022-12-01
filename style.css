@@ -1,0 +1,36 @@
+/* p {
+    color: cornflowerblue;  
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 10px;
+} */
+
+/* #type1 {
+    color:blue;
+    font-style: oblique;
+}
+
+#type2 {
+    color:crimson;
+    border:2px dotted;
+}
+
+#type3 {
+    color:darkmagenta;
+} */
+
+/* .type1 {
+    color:blueviolet;
+}
+
+.type2 {
+    border: 2px dotted;
+} */
+
+* {
+    font-size:8px;
+}
+
+p, h4 {
+    
+}
